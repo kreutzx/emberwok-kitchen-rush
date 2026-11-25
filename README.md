@@ -1,5 +1,10 @@
 # Emberwok: Harbor Kitchen Rush
 
+[![make.fun · best-cooking-game-20261125-0137](https://make.fun/badge/best-cooking-game-20261125-0137.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![rank](https://make.fun/badge/best-cooking-game-20261125-0137/kreutzx/emberwok-kitchen-rush/rank.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+[![reward](https://make.fun/badge/best-cooking-game-20261125-0137/kreutzx/emberwok-kitchen-rush/reward.svg)](https://make.fun/bounty/best-cooking-game-20261125-0137?utm_source=github&utm_medium=readme&utm_campaign=best-cooking-game-20261125-0137)
+
+
 One cook, one wok, and a harbor full of hungry sailors. **Emberwok: Harbor Kitchen Rush** is a fast, single-screen canvas cooking game: take the tickets, build each dish on the assembly plate, grill the proteins to their golden PERFECT moment, and serve fast enough to earn **600 coins in a 150-second day** — before three walked-out customers close your kitchen for good.
 
 ## How to play
